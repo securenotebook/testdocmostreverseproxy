@@ -16,6 +16,11 @@ Results:
 
 [![image.png](https://github.com/securenotebook/testdocmostreverseproxy/blob/main/docmost404.png)](https://github.com/securenotebook/testdocmostreverseproxy/blob/main/docmost404.png)
 
+From IP its loads fine
+[![image.png](https://github.com/securenotebook/testdocmostreverseproxy/blob/main/docmostip.png)](https://github.com/securenotebook/testdocmostreverseproxy/blob/main/docmostip.png)
+
+
+
 Generated HTML
 
 ```html
