@@ -14,10 +14,10 @@ Results:
 
 - url loads - however, i get a 404 from docmost
 
-[![image.png](https://github.com/securenotebook/testdocmostreverseproxy/blob/main/docmost404.png)](https://github.com/securenotebook/testdocmostreverseproxy/blob/main/docmost404.png)
+[![image.png](https://github.com/securenotebook/testdocmostreverseproxy/blob/main/pics/docmost404.png)](https://github.com/securenotebook/testdocmostreverseproxy/blob/main/pics/docmost404.png)
 
 From IP its loads fine
-[![image.png](https://github.com/securenotebook/testdocmostreverseproxy/blob/main/docmostip.png)](https://github.com/securenotebook/testdocmostreverseproxy/blob/main/docmostip.png)
+[![image.png](https://github.com/securenotebook/testdocmostreverseproxy/blob/main/pics/docmostip.png)](https://github.com/securenotebook/testdocmostreverseproxy/blob/main/pics/docmostip.png)
 
 Note APP\_URL strips the subpath /docmost/ from the the value set in the docker compose
 
