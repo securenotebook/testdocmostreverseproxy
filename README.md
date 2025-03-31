@@ -19,7 +19,7 @@ Results:
 From IP its loads fine
 [![image.png](https://github.com/securenotebook/testdocmostreverseproxy/blob/main/docmostip.png)](https://github.com/securenotebook/testdocmostreverseproxy/blob/main/docmostip.png)
 
-Note the APP\_URL strips the /docmost/ from the end of the value set in the docker compose
+Note APP\_URL strips the subpath /docmost/ from the the value set in the docker compose
 
 
 Generated HTML
