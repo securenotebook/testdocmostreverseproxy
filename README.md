@@ -14,7 +14,7 @@ Results:
 
 - url loads - however, i get a 404 from docmost
 
-[![image.png](docmost404)](http://docmost404.png)
+[![image.png](https://github.com/securenotebook/testdocmostreverseproxy/blob/main/docmost404.png)](https://github.com/securenotebook/testdocmostreverseproxy/blob/main/docmost404.png)
 
 Generated HTML
 
